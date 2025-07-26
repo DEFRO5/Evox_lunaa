@@ -1,6 +1,6 @@
-# Flashing Instructions for Realme GT Master edition (RMX3360/61/63)
+# Flashing Instructions for Evolution-x Realme GT Master edition (RMX3360/61/63)
 
-This guide provides detailed instructions for clean flashing custom ROMs on the Realme GT me(Lunaa) device.
+This guide provides detailed instructions for clean flashing Evolution-X custom ROMs on the Realme GT me(Lunaa) device.
 
 ---
 
@@ -106,10 +106,13 @@ To root the ROM using SUKISU:
    ```
 
 4. **Reboot System**  
-   Reboot the device to complete the rooting process.
+   Reboot the device.
+
+5. **Install sukisu**  
+   Install the sukisu app via this [link](https://github.com/SukiSU-Ultra/SukiSU-Ultra) and you'll have root access.  
 
 ---
 
 ## Disclaimer
 
-These instructions are provided as-is. Flashing custom software carries inherent risks. Proceed only if you understand the process. The maintainer is not responsible for data loss or device damage resulting from misuse or improper flashing.
+These instructions are provided as-is. Flashing custom software carries risks. Proceed only if you understand the process. The maintainer is not responsible for data loss or device damage resulting from misuse or improper flashing.
